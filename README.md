@@ -1,5 +1,5 @@
 # 2021732031-5-1-
-![이미지1](<img width="794" height="1026" alt="5-1-1" src="https://github.com/user-attachments/assets/cc579efb-b8db-4dfc-bbca-b025feea2087" />)
+![이미지1](https://github.com/2021732031Jinseok/repository-basic/blob/ccd71ae1fa1cad82402d904fa42d18ecf5110dff/5-1-1.png?raw=true)
 ![이미지2](<img width="797" height="1028" alt="5-1-2" src="https://github.com/user-attachments/assets/28d05fe2-7c36-46b9-a2c4-10440c11c781" />)
 ![이미지3](<img width="796" height="1029" alt="5-1-3" src="https://github.com/user-attachments/assets/c0c1b2e2-a3e2-463d-a607-7615ab19c9e2" />)
 ![이미지4](<img width="793" height="1029" alt="5-1-4" src="https://github.com/user-attachments/assets/1a94ab1a-5767-4e8e-8599-46d568b944a0" />)
